@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-clms-primary: #0F172A;
+  --color-clms-secondary: #F97316;
+  --color-clms-accent: #38BDF8;
+  --color-clms-grey: #64748B;
+}

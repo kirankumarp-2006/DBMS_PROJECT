@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dhl-yellow: #FFCC00;
+  --color-dhl-red: #D40511;
+  --color-dhl-grey: #4A4A4A;
+}

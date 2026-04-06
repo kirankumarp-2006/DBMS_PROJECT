@@ -1,0 +1,5 @@
+{
+  "name": "CLMS - Courier and Logistics Management System",
+  "description": "A comprehensive courier and logistics management system with tracking, shipment registration, and role-based access control, inspired by DHL.",
+  "requestFramePermissions": []
+}
